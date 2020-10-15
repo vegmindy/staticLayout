@@ -6,7 +6,7 @@ body {
 
 .hero {
     height: 100vh;
-    background: url("./2-assets/kast.jpg");
+    background: url("2-assets/kast.jpg");
     display: flex;
     align-items: center;
     justify-content: center;
@@ -72,5 +72,5 @@ ul li a {
 
 .blueSection {
     height: 25vh;
-    background: url("./2-assets/green-bg.jpg");
+    background: url("2-assets/green-bg.jpg");
 }
